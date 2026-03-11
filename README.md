@@ -37,3 +37,26 @@ Germany has the highest churn rate at 32.4%, and inactive customers are nearly t
 - Age Segmentation Chart: A visualization highlighting the high 56% churn rate specifically for the 41–60 age group.
 - Engagement Comparison: A chart showing the churn rate difference between inactive (26.9%) and active (14.3%) customers.
 - Balance vs. Churn Distribution: A visualization showing that churned customers hold a higher average balance (€91,109) than retained ones.
+
+## KEY INSIGHTS
+• Germany shows the highest customer churn rate (32.4%), significantly higher than France and Spain.
+
+• Customer inactivity is strongly associated with churn, with inactive users showing nearly double the churn rate.
+
+• High-balance customers are leaving the bank, indicating a risk of losing high-value accounts.
+
+• Customers aged 41–60 represent the segment with the highest churn risk.
+
+## BUSINESS IMPACT
+The analysis highlights critical opportunities for Horizon Bank to reduce churn through targeted retention strategies. By focusing on high-risk regions such as Germany, re-engaging inactive users, and improving onboarding experiences, the bank can improve customer lifetime value and protect high-balance accounts from attrition.
+
+## Project Files
+horizon-bank-churn-analysis
+│
+├── README.md
+├── churn_analysis_dashboard.png
+├── churn_dataset.csv
+└── churn_analysis_notebook.ipynb
+
+## Author
+Venny Amilia Deslaweny
