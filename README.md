@@ -1,4 +1,4 @@
-# Customer-Churn-at-Horizon-Bank
+# Customer Churn at Horizon Bank
 ### A Data-Driven Approach to Customer Retention
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
