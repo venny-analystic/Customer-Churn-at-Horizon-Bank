@@ -49,7 +49,7 @@ Download dataset:
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](churn_dashboard.png)
+![Customer Churn Dashboard](churn_analysis_dashboard.png)
 
 ## KEY INSIGHTS
 • Germany shows the highest customer churn rate (32.4%), significantly higher than France and Spain.
