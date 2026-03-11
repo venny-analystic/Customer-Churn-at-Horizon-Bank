@@ -31,12 +31,25 @@ Germany has the highest churn rate at 32.4%, and inactive customers are nearly t
 - Data Visualization
 - Root Cause Analysis
 
+### Interactive Dashboard
+View the interactive Tableau dashboard here:
+https://public.tableau.com/app/profile/venny.deslaweny
+
+### Dataset
+The dataset used in this analysis contains 10,000 banking customer records including demographic data, account balances, and engagement indicators.
+Download dataset:
+[Bank Customer Churn Dataset](bank_churn_dataset.csv)
+
 ## SECTION 4: VISUAL SUGGESTIONS
 - KPI Dashboard: A visual summary showing the 20.4% total churn rate and 10,000 total customers.
 - Geographic Bar Chart: A comparison of churn rates across Germany (32.4%), France (16.2%), and Spain (16.7%).
 - Age Segmentation Chart: A visualization highlighting the high 56% churn rate specifically for the 41–60 age group.
 - Engagement Comparison: A chart showing the churn rate difference between inactive (26.9%) and active (14.3%) customers.
 - Balance vs. Churn Distribution: A visualization showing that churned customers hold a higher average balance (€91,109) than retained ones.
+
+## Dashboard Preview
+
+![Customer Churn Dashboard](churn_dashboard_visual.png)
 
 ## KEY INSIGHTS
 • Germany shows the highest customer churn rate (32.4%), significantly higher than France and Spain.
